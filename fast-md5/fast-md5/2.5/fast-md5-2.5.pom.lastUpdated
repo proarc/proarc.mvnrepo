@@ -1,0 +1,15 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 22 16:03:18 CET 2023
+https\://github.com/incad/registrdigitalizace.mvnrepo/raw/master/.lastUpdated=1677078198348
+https\://github.com/incad/registrdigitalizace.mvnrepo/raw/master/.error=
+https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases/.lastUpdated=1666025070265
+https\://maven.pkg.github.com/ceskaexpedice/kramerius/.lastUpdated=1677078198729
+http\://0.0.0.0/.error=Could not transfer artifact fast-md5\:fast-md5\:pom\:2.5 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [smartclient.com (http\://www.smartclient.com/maven2, default, releases), geosdi (http\://repo.geosdi.org, default, releases)]
+https\://maven.pkg.github.com/ceskaexpedice/kramerius/.error=
+https\://repo.osgeo.org/repository/release/.error=Could not transfer artifact fast-md5\:fast-md5\:pom\:2.5 from/to k-int (https\://repo.osgeo.org/repository/release/)\: transfer failed for https\://repo.osgeo.org/repository/release/fast-md5/fast-md5/2.5/fast-md5-2.5.pom
+https\://github.com/proarc/proarc.mvnrepo/raw/master/.lastUpdated=1677078197976
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1666025070097
+https\://github.com/proarc/proarc.mvnrepo/raw/master/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1677078198899
+@default-k-int-https\://repo.osgeo.org/repository/release/.lastUpdated=1666025069554
+https\://repo.maven.apache.org/maven2/.error=
