@@ -1,0 +1,16 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 22 16:40:27 CET 2023
+https\://github.com/incad/registrdigitalizace.mvnrepo/raw/master/.lastUpdated=1677080426249
+https\://github.com/incad/registrdigitalizace.mvnrepo/raw/master/.error=
+https\://mvnrepository.com/artifact/.error=Could not transfer artifact marc4j\:marc4j\:jar\:2.3.1 from/to osgeo (https\://mvnrepository.com/artifact)\: authorization failed for https\://mvnrepository.com/artifact/marc4j/marc4j/2.3.1/marc4j-2.3.1.jar, status\: 403 Forbidden
+@default-osgeo-https\://repo.osgeo.org/repository/release/.lastUpdated=1638382643966
+@default-osgeo-https\://mvnrepository.com/artifact/.lastUpdated=1638382934691
+https\://maven.pkg.github.com/ceskaexpedice/kramerius/.lastUpdated=1677080426785
+http\://0.0.0.0/.error=Could not transfer artifact marc4j\:marc4j\:jar\:2.3.1 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [k-int (http\://developer.k-int.com/maven2, default, releases+snapshots), m2snapshot (http\://people.apache.org/repo/m2-snapshot-repository/, default, snapshots)]
+https\://maven.pkg.github.com/ceskaexpedice/kramerius/.error=
+https\://repo.osgeo.org/repository/release/.error=Could not transfer artifact marc4j\:marc4j\:jar\:2.3.1 from/to osgeo (https\://repo.osgeo.org/repository/release)\: transfer failed for https\://repo.osgeo.org/repository/release/marc4j/marc4j/2.3.1/marc4j-2.3.1.jar
+https\://github.com/proarc/proarc.mvnrepo/raw/master/.lastUpdated=1677080425817
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1677080427081
+https\://github.com/proarc/proarc.mvnrepo/raw/master/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1677080427074
+https\://repo.maven.apache.org/maven2/.error=
