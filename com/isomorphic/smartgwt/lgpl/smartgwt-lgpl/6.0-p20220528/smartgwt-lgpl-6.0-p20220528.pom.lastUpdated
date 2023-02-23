@@ -1,0 +1,16 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 22 16:03:20 CET 2023
+https\://github.com/incad/registrdigitalizace.mvnrepo/raw/master/.lastUpdated=1677078199716
+https\://github.com/incad/registrdigitalizace.mvnrepo/raw/master/.error=
+https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases/.lastUpdated=1667161551544
+https\://maven.pkg.github.com/ceskaexpedice/kramerius/.lastUpdated=1677078200026
+http\://0.0.0.0/.error=Could not transfer artifact com.isomorphic.smartgwt.lgpl\:smartgwt-lgpl\:pom\:6.0-p20220528 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [smartclient.com (http\://www.smartclient.com/maven2, default, releases), geosdi (http\://repo.geosdi.org, default, releases)]
+https\://maven.pkg.github.com/ceskaexpedice/kramerius/.error=
+https\://repo.osgeo.org/repository/release/.error=Could not transfer artifact com.isomorphic.smartgwt.lgpl\:smartgwt-lgpl\:pom\:6.0-p20220528 from/to k-int (https\://repo.osgeo.org/repository/release/)\: Transfer failed for https\://repo.osgeo.org/repository/release/com/isomorphic/smartgwt/lgpl/smartgwt-lgpl/6.0-p20220528/smartgwt-lgpl-6.0-p20220528.pom
+https\://github.com/proarc/proarc.mvnrepo/raw/master/.lastUpdated=1677078199349
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1667159314313
+https\://github.com/proarc/proarc.mvnrepo/raw/master/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1677078200226
+https\://repo.maven.apache.org/maven2/.error=
+@default-k-int-https\://repo.osgeo.org/repository/release/.lastUpdated=1667161673846
+https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases/.error=

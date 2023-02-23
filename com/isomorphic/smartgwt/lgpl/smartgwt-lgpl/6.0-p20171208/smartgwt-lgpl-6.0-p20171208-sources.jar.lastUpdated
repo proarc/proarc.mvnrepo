@@ -1,0 +1,22 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 09 12:31:11 CET 2022
+http\://www.smartclient.com/maven2/.error=
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1670585471015
+http\://maven.k-int.com/content/repositories/releases/.lastUpdated=1551141799052
+https\://repo.maven.apache.org/maven2/.lastUpdated=1670585471305
+http\://maven.k-int.com/content/repositories/releases/.error=
+https\://github.com/incad/registrdigitalizace.mvnrepo/raw/master/.error=
+https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases/.lastUpdated=1670585471163
+https\://github.com/proarc/proarc.mvnrepo/raw/master/.lastUpdated=1670585470246
+http\://0.0.0.0/.error=Could not transfer artifact com.isomorphic.smartgwt.lgpl\:smartgwt-lgpl\:jar\:sources\:6.0-p20171208 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [maven-default-http-blocker (http\://0.0.0.0/, default, releases), geosdi (http\://repo.geosdi.org, default, releases)]
+https\://repo.maven.apache.org/maven2/.error=
+https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases/.error=
+https\://github.com/proarc/proarc.mvnrepo/raw/master/.error=
+@default-k-int-https\://repo.osgeo.org/repository/release/.lastUpdated=1670585470621
+https\://maven.pkg.github.com/ceskaexpedice/kramerius/.error=
+https\://github.com/incad/registrdigitalizace.mvnrepo/raw/master/.lastUpdated=1670585471014
+http\://repo.geosdi.org/.lastUpdated=1551141798867
+https\://maven.pkg.github.com/ceskaexpedice/kramerius/.lastUpdated=1670585470032
+http\://repo.geosdi.org/.error=
+http\://www.smartclient.com/maven2/.lastUpdated=1551141798682
+https\://repo.osgeo.org/repository/release/.error=Could not transfer artifact com.isomorphic.smartgwt.lgpl\:smartgwt-lgpl\:jar\:sources\:6.0-p20171208 from/to k-int (https\://repo.osgeo.org/repository/release/)\: transfer failed for https\://repo.osgeo.org/repository/release/com/isomorphic/smartgwt/lgpl/smartgwt-lgpl/6.0-p20171208/smartgwt-lgpl-6.0-p20171208-sources.jar
