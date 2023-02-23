@@ -1,0 +1,16 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 09 12:30:09 CET 2022
+https\://github.com/incad/registrdigitalizace.mvnrepo/raw/master/.lastUpdated=1670585409605
+https\://github.com/incad/registrdigitalizace.mvnrepo/raw/master/.error=
+https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases/.lastUpdated=1670585409731
+https\://maven.pkg.github.com/ceskaexpedice/kramerius/.lastUpdated=1670585408571
+http\://0.0.0.0/.error=Could not transfer artifact cql-java\:cql-java\:jar\:sources\:0.0.7 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [maven-default-http-blocker (http\://0.0.0.0/, default, releases), geosdi (http\://repo.geosdi.org, default, releases)]
+https\://maven.pkg.github.com/ceskaexpedice/kramerius/.error=
+https\://repo.osgeo.org/repository/release/.error=Could not transfer artifact cql-java\:cql-java\:jar\:sources\:0.0.7 from/to k-int (https\://repo.osgeo.org/repository/release/)\: transfer failed for https\://repo.osgeo.org/repository/release/cql-java/cql-java/0.0.7/cql-java-0.0.7-sources.jar
+https\://github.com/proarc/proarc.mvnrepo/raw/master/.lastUpdated=1670585408812
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1670585409607
+https\://github.com/proarc/proarc.mvnrepo/raw/master/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1670585409960
+https\://repo.maven.apache.org/maven2/.error=
+@default-k-int-https\://repo.osgeo.org/repository/release/.lastUpdated=1670585409199
+https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases/.error=

@@ -1,0 +1,17 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 22 16:40:27 CET 2023
+https\://github.com/incad/registrdigitalizace.mvnrepo/raw/master/.lastUpdated=1677080426247
+https\://github.com/incad/registrdigitalizace.mvnrepo/raw/master/.error=
+http\://www.smartclient.com/maven2/.lastUpdated=1564177099690
+http\://maven.k-int.com/content/repositories/releases/.lastUpdated=1564177111632
+http\://www.smartclient.com/maven2/.error=
+https\://maven.pkg.github.com/ceskaexpedice/kramerius/.lastUpdated=1677080426784
+http\://0.0.0.0/.error=Could not transfer artifact cql-java\:cql-java\:jar\:0.0.7 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [k-int (http\://developer.k-int.com/maven2, default, releases+snapshots), m2snapshot (http\://people.apache.org/repo/m2-snapshot-repository/, default, snapshots)]
+http\://repo.geosdi.org/.lastUpdated=1564177105021
+https\://maven.pkg.github.com/ceskaexpedice/kramerius/.error=
+https\://github.com/proarc/proarc.mvnrepo/raw/master/.lastUpdated=1677080425816
+https\://github.com/proarc/proarc.mvnrepo/raw/master/.error=
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1677080427080
+https\://repo.maven.apache.org/maven2/.lastUpdated=1677080427073
+https\://repo.maven.apache.org/maven2/.error=
+http\://repo.geosdi.org/.error=
